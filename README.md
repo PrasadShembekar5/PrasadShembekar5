@@ -11,8 +11,8 @@ I'm a MERN-Stack Developer.
 * ✨ Still Advancing My Skills 
 
 ### SKILLS
-* 👨‍💻 Tailwind, TypeScript, Angular, React
-* ⚙️ Python, Django, Java, Spring Boot 
-* 💽 MySQL, MongoDB
+* 👨‍💻 JavaScript, TypeScript, React
+* ⚙️ Java, Python, Spring 
+* 💽 OracleDb
 
 
