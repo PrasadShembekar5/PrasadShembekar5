@@ -11,8 +11,8 @@
 * ✨ Still Advancing My Skills 
 
 ### SKILLS
-* 👨‍💻 JavaScript, TypeScript, React
-* ⚙️ Java, Python, Spring 
+* 👨‍💻 JavaScript, TypeScript
+* ⚙️ Java, Python
 * 💽 OracleDb
 
 
