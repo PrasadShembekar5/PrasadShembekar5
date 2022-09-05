@@ -1,5 +1,5 @@
 ## **Hi there 👋** 
-I'm a MERN-Stack Developer. 
+
 ### BIO  
 * 🏢 I'm currently student at GCOEA 
 * ⚙️ I use daily: .py, .ts, .js, .ai 
