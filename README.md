@@ -3,7 +3,7 @@
 Hello, there! 👋 I'm Prasad Shembekar, and it's a pleasure to meet you. Here's a little bit about myself:
 
 ### BIO  
-- 🔭 I'm college graduate and passionate about new technologies in MERN Stack, Artificial Intelligence, Machine Learning And DevOps.
+- 🔭 I'm college graduate and passionate about new technologies in MERN Stack, Artificial Intelligence, Machine Learning and DevOps.
 - ⚡️ I'm mostly active within the Java & Python Community
 - ⚙️ I use daily: .py, .ts, .js, .ai, .java, .sh 
 - 🌱 I love learning new technologies and exploring different domains.
