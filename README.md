@@ -24,7 +24,9 @@ Hello, there! 👋 I'm Prasad Shembekar, and it's a pleasure to meet you. Here's
 ## Let's Collaborate
 
 If you have any interesting projects or ideas, feel free to collaborate with me. I'm always open to exciting opportunities!
-Looking forward to connecting with you! 😊 Happy Coding :)
+Looking forward to connecting with you! 😊 
+
+Happy Coding :)
 
 
 
