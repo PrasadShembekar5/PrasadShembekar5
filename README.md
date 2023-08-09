@@ -16,8 +16,8 @@ Hello, there! 👋 I'm Prasad Shembekar, and it's a pleasure to meet you. Here's
 
 ### SKILLS
 * 👨‍💻 JavaScript, TypeScript
-* 🌐 React.js
 * ⚙️ Java 🐍 Python
+* 🌐 React.js
 * 🐧 Linux
 * 💽 OracleDb, MySQL
 
